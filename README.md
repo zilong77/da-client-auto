@@ -16,8 +16,8 @@ This script automatically installs and runs the 0G DA Client using Docker.
 
 2. **Run the Installation Script**
    ```bash
-   chmod +x install.sh
-   ./install.sh
+   chmod +x da-client.sh
+   ./da-client.sh
    ```
 
 3. **Enter Your Private Key**
